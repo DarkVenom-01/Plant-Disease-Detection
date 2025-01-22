@@ -90,7 +90,7 @@ Contributions are welcome! To contribute:
    ```
 4. Submit a pull request for review.
 
-5. All the contributions need to be committed in the CONTRIBUION.MD file 
+5. All the contributions need to be committed in the CONTRIBUTION.MD file.
 
 ---
 
